@@ -23,8 +23,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-nine-dusky-99.vercel.app/api?username=MaZeNN113&show_icons=true&bg_color=000000&title_color=FCE000&text_color=FFFFFF&icon_color=00A800&border_color=C84C0C" alt="MaZeNN113 GitHub Stats" />
-  <img src="https://github-readme-stats-nine-dusky-99.vercel.app/api/top-langs/?username=MaZeNN113&layout=compact&bg_color=000000&title_color=FCE000&text_color=FFFFFF&border_color=C84C0C" alt="Top Languages" />
+  <img src="https://github-readme-stats-nine-dusky-99.vercel.app/api?username=MaZeNN113&show_icons=true&hide_rank=true&card_width=370&bg_color=000000&title_color=FCE000&text_color=FFFFFF&icon_color=00A800&border_color=C84C0C" alt="MaZeNN113 GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-nine-dusky-99.vercel.app/api/top-langs/?username=MaZeNN113&layout=compact&card_width=370&bg_color=000000&title_color=FCE000&text_color=FFFFFF&border_color=C84C0C" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -76,7 +79,7 @@
 </p>
 
 <p align="center">
-  <strong>⭐ Weathy App</strong>: A weather app built with JavaScript. 🔗 <a href="https://github.com/MaZeNN113/Weathy-App">https://github.com/MaZeNN113/Weathy-App</a>
+  <strong>⭐ Weathy App</strong>: A weather app built with vanilla JavaScript. 🔗 <a href="https://github.com/MaZeNN113/Weathy-App">Go to Weathy App</a>
 </p>
 
 <p align="center">
@@ -86,7 +89,7 @@
 </p>
 
 <p align="center">
-  <strong>⭐ YouTube Clone</strong>: Front-end video interface built with HTML, CSS, JavaScript, and React components using state, props, `useEffect`, and `useContext`. 🔗 <a href="https://github.com/MaZeNN113/YouTubeClone26">https://github.com/MaZeNN113/YouTubeClone26</a>
+  <strong>⭐ YouTube Clone</strong>: Front-end video interface built with HTML, CSS, JavaScript, and React components using state, props, `useEffect`, and `useContext`. 🔗 <a href="https://github.com/MaZeNN113/YouTubeClone26">Go to YouTubeClone</a>
 </p>
 
 <p align="center">
